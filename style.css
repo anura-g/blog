@@ -1,0 +1,36 @@
+/* font weights: 200, 500, 700*/
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.header{
+    margin: 50px 0px 0px 20px;
+}
+
+.header h1{
+    font-weight: 800;
+    font-size: 80px;
+}
+
+.topics{
+    margin: 100px 0px 0px 20px;
+}
+
+.topics h2{
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.topics ul{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.topics ul a{
+    text-decoration: none;
+    background-color: none;
+}
+
